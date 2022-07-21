@@ -149,8 +149,7 @@
       </plugins>
     </pluginManagement>         
           
-          
-  <plugins>
+   <plugins>          
    <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
